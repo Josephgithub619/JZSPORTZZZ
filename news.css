@@ -12,7 +12,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #1D212B;
+  background: white;
 }
 
 .img-slider{
